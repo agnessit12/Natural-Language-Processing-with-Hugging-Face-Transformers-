@@ -6,6 +6,6 @@
 from CognitiveClass.ai</p>
 
 
-<h1>Nama : Fathul Arifin</h1>
+<h1>Nama : Agnes Situmorang</h1>
 <h2>IBM Academy Advance AI Independent Study in Infinite Learning</h2>
 
